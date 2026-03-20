@@ -1,6 +1,6 @@
 [general]
 import = [
-  "~/.config/alacritty/catppuccin-frappe.toml"
+  "~/.config/alacritty/catppuccin/catppuccin-frappe.toml"
 ]
 
 [window]
