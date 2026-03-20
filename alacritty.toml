@@ -1,0 +1,11 @@
+[general]
+import = [
+  "~/.config/alacritty/catppuccin-frappe.toml"
+]
+
+[window]
+padding = { x = 10, y = 10 }
+
+[font]
+normal = { family = "Maple Mono NF", style = "Regular" }
+size = 10
